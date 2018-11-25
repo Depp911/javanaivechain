@@ -6,7 +6,7 @@ https://github.com/sunysen/naivechain
 
 ### Quick start
 ```
-git clone https://github.com/sunysen/naivechain.git
+git clone https://github.com/Depp911/javanaivechain.git
 cd naivechain
 mvn clean install
 java -jar naivechain.jar 8080 7001
